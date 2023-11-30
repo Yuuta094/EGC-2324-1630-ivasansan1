@@ -3,7 +3,7 @@
   become: yes
   become_user: decide
   git:
-    repo: 'https://github.com/wadobo/decide.git'
+    repo: 'https://github.com/Yuuta094/EGC-2324-1630-ivasansan1.git'
     dest: /home/decide/decide
     version: master
 
